@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TAU6_2Mockito.iml" filepath="$PROJECT_DIR$/.idea/TAU6_2Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtrapyPrzykladProstszy/mocks.iml" filepath="$PROJECT_DIR$/AtrapyPrzykladProstszy/mocks.iml" />
+    </modules>
+  </component>
+</project>
